@@ -1,5 +1,5 @@
 {
   "component": "rmg-palette",
   "version": "0.2.4",
-  "environment: "UAT"
+  "environment": "UAT"
 }
