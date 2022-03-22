@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/rmg-palette/static/js/main.6d6784b3.js",
+    "main.js": "/rmg-palette/static/js/main.f52ff0e3.js",
     "palettes0.js": "/rmg-palette/static/js/palettes0.91e362b1.chunk.js",
     "palettes1.js": "/rmg-palette/static/js/palettes1.cf5e9b04.chunk.js",
     "palettes2.js": "/rmg-palette/static/js/palettes2.94785b12.chunk.js",
@@ -74,7 +74,7 @@
     "palettes70.js": "/rmg-palette/static/js/palettes70.f8662080.chunk.js",
     "palettes71.js": "/rmg-palette/static/js/palettes71.f4f8c2aa.chunk.js",
     "index.html": "/rmg-palette/index.html",
-    "main.6d6784b3.js.map": "/rmg-palette/static/js/main.6d6784b3.js.map",
+    "main.f52ff0e3.js.map": "/rmg-palette/static/js/main.f52ff0e3.js.map",
     "palettes0.91e362b1.chunk.js.map": "/rmg-palette/static/js/palettes0.91e362b1.chunk.js.map",
     "palettes1.cf5e9b04.chunk.js.map": "/rmg-palette/static/js/palettes1.cf5e9b04.chunk.js.map",
     "palettes2.94785b12.chunk.js.map": "/rmg-palette/static/js/palettes2.94785b12.chunk.js.map",
@@ -149,6 +149,6 @@
     "palettes71.f4f8c2aa.chunk.js.map": "/rmg-palette/static/js/palettes71.f4f8c2aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6d6784b3.js"
+    "static/js/main.f52ff0e3.js"
   ]
 }
