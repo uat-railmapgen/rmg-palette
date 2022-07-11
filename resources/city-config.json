@@ -381,6 +381,17 @@
         }
     },
     {
+        "id": "montreal",
+        "country": "CA",
+        "name": {
+            "en": "Montreal",
+            "fr": "Montréal",
+            "zh-Hans": "蒙特利尔",
+            "zh-HK": "滿地可",
+            "zh-TW": "蒙特婁"
+        }
+    },
+    {
         "id": "munich",
         "country": "DE",
         "name": {
@@ -395,6 +406,16 @@
         "name": {
             "en": "Nanjing",
             "zh": "南京"
+        }
+    },
+    {
+        "id": "naples",
+        "country": "IT",
+        "name": {
+            "en": "Naples",
+            "it": "Napoli",
+            "zh-Hans": "那不勒斯",
+            "zh-Hant": "拿坡里"
         }
     },
     {
@@ -571,6 +592,14 @@
         }
     },
     {
+        "id": "taichung",
+        "country": "TW",
+        "name": {
+            "en": "Taichung",
+            "zh": "台中"
+        }
+    },
+    {
         "id": "taipei",
         "country": "TW",
         "name": {
@@ -636,6 +665,15 @@
         }
     },
     {
+        "id": "wuhan",
+        "country": "CN",
+        "name": {
+            "en": "Wuhan",
+            "zh-Hans": "武汉",
+            "zh-Hant": "武漢"
+        }
+    },
+    {
         "id": "wuxi",
         "country": "CN",
         "name": {
@@ -659,6 +697,16 @@
         "name": {
             "en": "Xi'an",
             "zh": "西安"
+        }
+    },
+    {
+        "id": "yokohama",
+        "country": "JP",
+        "name": {
+            "en": "Yokohama",
+            "ja": "横浜",
+            "zh-Hans": "横滨",
+            "zh-Hant": "橫濱"
         }
     },
     {
