@@ -1,5 +1,6 @@
 {
   "component": "rmg-palette",
-  "version": "0.5.0-0.#97.62b342f",
-  "environment": "UAT"
+  "version": "0.6.2",
+  "environment": "UAT",
+  "instance": "GitHub"
 }

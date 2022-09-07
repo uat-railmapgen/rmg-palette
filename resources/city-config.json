@@ -19,6 +19,15 @@
         }
     },
     {
+        "id": "bangkok",
+        "country": "TH",
+        "name": {
+            "en": "Bangkok",
+            "zh-Hans": "曼谷",
+            "zh-Hant": "曼谷"
+        }
+    },
+    {
         "id": "barcelona",
         "country": "ES",
         "name": {
@@ -44,6 +53,15 @@
             "de": "Berlin",
             "en": "Berlin",
             "zh": "柏林"
+        }
+    },
+    {
+        "id": "boston",
+        "country": "US",
+        "name": {
+            "en": "Boston",
+            "zh-Hans": "波士顿",
+            "zh-Hant": "波士頓"
         }
     },
     {
@@ -76,6 +94,15 @@
         }
     },
     {
+        "id": "changchun",
+        "country": "CN",
+        "name": {
+            "en": "Changchun",
+            "zh-Hans": "长春",
+            "zh-Hant": "長春"
+        }
+    },
+    {
         "id": "changsha",
         "country": "CN",
         "name": {
@@ -99,6 +126,15 @@
             "en": "Chongqing",
             "zh-Hans": "重庆",
             "zh-Hant": "重慶"
+        }
+    },
+    {
+        "id": "copenhagen",
+        "country": "DK",
+        "name": {
+            "en": "Copenhagen",
+            "zh-Hans": "哥本哈根",
+            "zh-Hant": "哥本哈根"
         }
     },
     {
@@ -252,6 +288,14 @@
         }
     },
     {
+        "id": "hefei",
+        "country": "CN",
+        "name": {
+            "zh": "合肥",
+            "en": "Hefei"
+        }
+    },
+    {
         "id": "hochiminh",
         "country": "VN",
         "name": {
@@ -275,7 +319,7 @@
             "en": "Istanbul",
             "tr": "İstanbul",
             "zh-Hans": "伊斯坦布尔",
-            "zh-Hant": "伊斯坦布爾"
+            "zh-Hant": "伊斯坦堡"
         }
     },
     {
@@ -415,7 +459,8 @@
             "en": "Naples",
             "it": "Napoli",
             "zh-Hans": "那不勒斯",
-            "zh-Hant": "拿坡里"
+            "zh-HK": "拿坡利",
+            "zh-TW": "拿坡里"
         }
     },
     {
@@ -424,6 +469,15 @@
         "name": {
             "en": "New Taipei",
             "zh": "新北"
+        }
+    },
+    {
+        "id": "ningbo",
+        "country": "CN",
+        "name": {
+            "en": "Ningbo",
+            "zh-Hans": "宁波",
+            "zh-Hant": "寧波"
         }
     },
     {
@@ -491,6 +545,16 @@
         }
     },
     {
+        "id": "riyadh",
+        "country": "SA",
+        "name": {
+            "en": "Riyadh",
+            "ar": "الرياض",
+            "zh-Hans": "利雅得",
+            "zh-Hant": "利雅德"
+        }
+    },
+    {
         "id": "sanfrancisco",
         "country": "US",
         "name": {
@@ -546,6 +610,15 @@
         "name": {
             "en": "Shanghai",
             "zh": "上海"
+        }
+    },
+    {
+        "id": "shaoxing",
+        "country": "CN",
+        "name": {
+            "en": "Shaoxing",
+            "zh-Hans": "绍兴",
+            "zh-Hant": "紹興"
         }
     },
     {
@@ -662,6 +735,16 @@
             "de": "Wien",
             "zh-Hans": "维也纳",
             "zh-Hant": "維也納"
+        }
+    },
+    {
+        "id": "warsaw",
+        "country": "PL",
+        "name": {
+            "en": "Warsaw",
+            "pl": "Warszawa",
+            "zh-Hans": "华沙",
+            "zh-Hant": "華沙"
         }
     },
     {
