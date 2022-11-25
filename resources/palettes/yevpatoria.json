@@ -1,7 +1,7 @@
 [
     {
-        "id": "km1",
-        "colour": "#ea3222",
+        "id": "y1",
+        "colour": "#bf2928",
         "fg": "#fff",
         "name": {
             "en": "Line 1",
@@ -10,8 +10,8 @@
         }
     },
     {
-        "id": "km2",
-        "colour": "#03619e",
+        "id": "y2",
+        "colour": "#008200",
         "fg": "#fff",
         "name": {
             "en": "Line 2",
@@ -20,8 +20,8 @@
         }
     },
     {
-        "id": "km3",
-        "colour": "#a13187",
+        "id": "y3",
+        "colour": "#2b9bff",
         "fg": "#fff",
         "name": {
             "en": "Line 3",
@@ -30,33 +30,13 @@
         }
     },
     {
-        "id": "km4",
-        "colour": "#f09c22",
+        "id": "y4",
+        "colour": "#ffaf26",
         "fg": "#fff",
         "name": {
             "en": "Line 4",
             "zh-Hans": "4号线",
             "zh-Hant": "4號線"
-        }
-    },
-    {
-        "id": "km5",
-        "colour": "#4ea547",
-        "fg": "#fff",
-        "name": {
-            "en": "Line 5",
-            "zh-Hans": "5号线",
-            "zh-Hant": "5號線"
-        }
-    },
-    {
-        "id": "km6",
-        "colour": "#048f92",
-        "fg": "#fff",
-        "name": {
-            "en": "Line 6",
-            "zh-Hans": "6号线",
-            "zh-Hant": "6號線"
         }
     }
 ]
