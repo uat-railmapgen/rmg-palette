@@ -21,6 +21,26 @@
         "language": "az"
     },
     {
+        "id": "BE",
+        "name": {
+            "en": "Belgium",
+            "fr": "Belgique",
+            "zh-Hans": "比利时",
+            "zh-Hant": "比利時"
+        },
+        "language": "fr"
+    },
+    {
+        "id": "BO",
+        "name": {
+            "en": "Bolivia",
+            "zh-Hans": "玻利维亚",
+            "zh-Hant": "玻利維亞",
+            "es": "Bolivia"
+        },
+        "language": "es"
+    },
+    {
         "id": "BR",
         "name": {
             "en": "Brazil",
@@ -328,7 +348,7 @@
         "id": "TH",
         "name": {
             "en": "Thailand",
-            "th":"ราชอาณาจักรไทย",
+            "th": "ราชอาณาจักรไทย",
             "zh-Hans": "泰国",
             "zh-Hant": "泰國"
         },
@@ -389,12 +409,19 @@
         "language": "uz"
     },
     {
+        "id": "VE",
+        "name": {
+            "en": "Venezuela",
+            "zh": "委内瑞拉"
+        }
+    },
+    {
         "id": "VN",
         "name": {
             "en": "Vietnam",
-            "vn": "Việt Nam",
+            "vi": "Việt Nam",
             "zh": "越南"
         },
-        "language": "vn"
+        "language": "vi"
     }
 ]
