@@ -1,5 +1,14 @@
 [
     {
+        "id": "amsterdam",
+        "country": "NL",
+        "name": {
+            "en": "Amsterdam",
+            "ko": "암스테르담",
+            "zh": "阿姆斯特丹"
+        }
+    },
+    {
         "id": "ankara",
         "country": "TR",
         "name": {
@@ -109,6 +118,16 @@
             "hu": "Budapest",
             "zh-Hans": "布达佩斯",
             "zh-Hant": "布達佩斯"
+        }
+    },
+    {
+        "id": "buenosaires",
+        "country": "AR",
+        "name": {
+            "es": "Buenos Aires",
+            "zh-Hans": "布宜诺斯艾利斯",
+            "zh-Hant": "布宜諾斯艾利斯",
+            "en": "Buenos Aires"
         }
     },
     {
@@ -246,6 +265,16 @@
         }
     },
     {
+        "id": "dublin",
+        "country": "Ireland",
+        "name": {
+            "en": "Dublin",
+            "ga": "Baile Átha Cliath",
+            "zh-Hans": "都柏林",
+            "zh-Hant": "都柏林"
+        }
+    },
+    {
         "id": "edinburgh",
         "country": "GBSCT",
         "name": {
@@ -281,6 +310,17 @@
             "en": "Frankfurt am Main",
             "zh-Hans": "美茵河畔法兰克福",
             "zh-Hant": "美茵河畔法蘭克福"
+        }
+    },
+    {
+        "id": "fuzhou",
+        "country": "CN",
+        "name": {
+            "en": "Fuzhou",
+            "ko": "푸저우",
+            "zh-Hans": "福州",
+            "zh-TW": "福州",
+            "zh-HK": "福州"
         }
     },
     {
@@ -446,6 +486,16 @@
         "name": {
             "en": "Kaohsiung",
             "zh": "高雄"
+        }
+    },
+    {
+        "id": "kaosiung",
+        "country": "TW",
+        "name": {
+            "en": "Kaosiung",
+            "zh-Hans": "高雄",
+            "zh-Hant": "高雄",
+            "ko": "가오슝"
         }
     },
     {
@@ -726,6 +776,17 @@
         }
     },
     {
+        "id": "rome",
+        "country": "IT",
+        "name": {
+            "en": "Rome",
+            "ko": "로마",
+            "zh-Hans": "罗马",
+            "zh-Hant": "羅馬",
+            "it": "Roma"
+        }
+    },
+    {
         "id": "sanfrancisco",
         "country": "US",
         "name": {
@@ -815,6 +876,14 @@
         "name": {
             "en": "Shenzhen",
             "zh": "深圳"
+        }
+    },
+    {
+        "id": "shijiazhuang",
+        "country": "CN",
+        "name": {
+            "en": "Shijiazhuang",
+            "zh-Hans": "石家庄"
         }
     },
     {
@@ -935,6 +1004,15 @@
         }
     },
     {
+        "id": "urumqi",
+        "country": "CN",
+        "name": {
+            "en": "Urumqi",
+            "zh-Hans": "乌鲁木齐",
+            "zh-Hant": "烏魯木齊"
+        }
+    },
+    {
         "id": "vienna",
         "country": "AT",
         "name": {
@@ -996,6 +1074,15 @@
         "name": {
             "en": "Xi'an",
             "zh": "西安"
+        }
+    },
+    {
+        "id": "xuzhou",
+        "country": "CN",
+        "name": {
+            "en": "Xuzhou",
+            "zh-Hans": "徐州",
+            "zh-Hant": "徐州"
         }
     },
     {
