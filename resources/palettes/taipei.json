@@ -128,5 +128,25 @@
             "zh-Hans": "猫空缆车",
             "zh-Hant": "貓空䌫車"
         }
+    },
+    {
+        "id": "tr",
+        "colour": "#020281",
+        "fg": "#fff",
+        "name": {
+            "en": "Taiwan Railways",
+            "zh-Hans": "台铁",
+            "zh-Hant": "台鐵"
+        }
+    },
+    {
+        "id": "hsr",
+        "colour": "#db5426",
+        "fg": "#fff",
+        "name": {
+            "en": "Taiwan High Speed Rail",
+            "zh-Hans": "台湾高铁",
+            "zh-Hant": "台灣高鐵"
+        }
     }
 ]

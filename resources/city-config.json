@@ -59,6 +59,15 @@
         }
     },
     {
+        "id": "bangalore",
+        "country": "IN",
+        "name": {
+            "en": "Bangalore",
+            "zh-Hans": "班加罗尔",
+            "zh-Hant": "班加羅爾"
+        }
+    },
+    {
         "id": "bangkok",
         "country": "TH",
         "name": {
@@ -243,6 +252,16 @@
         }
     },
     {
+        "id": "charleroi",
+        "country": "BE",
+        "name": {
+            "en": "Charleroi",
+            "zh-Hans": "沙勒罗瓦",
+            "zh-Hant": "沙勒羅瓦",
+            "fr": "Charleroi"
+        }
+    },
+    {
         "id": "chengdu",
         "country": "CN",
         "name": {
@@ -259,6 +278,15 @@
             "zh-Hans": "金奈",
             "zh-Hant": "金奈",
             "hi": "சென்னை"
+        }
+    },
+    {
+        "id": "chicago",
+        "country": "US",
+        "name": {
+            "en": "Chicago",
+            "zh-Hans": "芝加哥",
+            "zh-Hant": "芝加哥"
         }
     },
     {
@@ -319,6 +347,16 @@
         }
     },
     {
+        "id": "daejeon",
+        "country": "KR",
+        "name": {
+            "en": "Daejeon(Chungcheong Province)",
+            "zh-Hans": "大田（忠清道）",
+            "zh-Hant": "大田（忠清道）",
+            "ko": "대전（충청도)"
+        }
+    },
+    {
         "id": "dalian",
         "country": "CN",
         "name": {
@@ -354,6 +392,16 @@
             "de": "Dortmund",
             "zh-Hans": "多特蒙德",
             "zh-Hant": "多特蒙德"
+        }
+    },
+    {
+        "id": "dubai",
+        "country": "AE",
+        "name": {
+            "en": "Dubai",
+            "zh-Hans": "迪拜",
+            "zh-Hant": "杜拜",
+            "ar": "دبي"
         }
     },
     {
@@ -416,6 +464,16 @@
         }
     },
     {
+        "id": "genoa",
+        "country": "IT",
+        "name": {
+            "en": "Genoa",
+            "it": "Genova",
+            "zh-Hans": "热那亚",
+            "zh-Hant": "熱那亞"
+        }
+    },
+    {
         "id": "glasgow",
         "country": "GBSCT",
         "name": {
@@ -465,6 +523,16 @@
         }
     },
     {
+        "id": "gwangju",
+        "country": "KR",
+        "name": {
+            "en": "Gwangju",
+            "ko": "광주",
+            "zh-Hans": "光州",
+            "zh-Hant": "光州"
+        }
+    },
+    {
         "id": "hamburg",
         "country": "DE",
         "name": {
@@ -481,6 +549,16 @@
             "en": "Hangzhou",
             "zh-Hans": "杭州",
             "zh-Hant": "杭州"
+        }
+    },
+    {
+        "id": "hannover",
+        "country": "DE",
+        "name": {
+            "en": "Hannover",
+            "zh-Hans": "汉诺威",
+            "zh-Hant": "漢諾威",
+            "de": "Hannover "
         }
     },
     {
@@ -542,12 +620,31 @@
         }
     },
     {
+        "id": "hokkaido",
+        "country": "JP",
+        "name": {
+            "en": "Hokkaido",
+            "zh-Hans": "北海道",
+            "ja": "北海道",
+            "zh-Hant": "北海道"
+        }
+    },
+    {
         "id": "hongkong",
         "country": "HK",
         "name": {
             "en": "Hong Kong",
             "zh-Hans": "香港",
             "zh-Hant": "香港"
+        }
+    },
+    {
+        "id": "honolulu",
+        "country": "US",
+        "name": {
+            "en": "Honolulu",
+            "zh-Hans": "火奴鲁鲁",
+            "zh-Hant": "檀香山"
         }
     },
     {
@@ -590,6 +687,15 @@
         }
     },
     {
+        "id": "jinhua",
+        "country": "CN",
+        "name": {
+            "en": "Jinhua",
+            "zh-Hans": "金华",
+            "zh-Hant": "金華"
+        }
+    },
+    {
         "id": "kansai",
         "country": "JP",
         "name": {
@@ -606,16 +712,6 @@
             "en": "Kaohsiung",
             "zh-Hans": "高雄",
             "zh-Hant": "高雄"
-        }
-    },
-    {
-        "id": "kaosiung",
-        "country": "TW",
-        "name": {
-            "en": "Kaosiung",
-            "zh-Hans": "高雄",
-            "zh-Hant": "高雄",
-            "ko": "가오슝"
         }
     },
     {
@@ -654,6 +750,16 @@
             "zh-Hans": "基辅",
             "zh-Hant": "基輔",
             "uk": "Киев"
+        }
+    },
+    {
+        "id": "kyoto",
+        "country": "JP",
+        "name": {
+            "en": "Kyoto",
+            "zh-Hans": "京都",
+            "zh-Hant": "京都",
+            "ja": "京都"
         }
     },
     {
@@ -871,6 +977,16 @@
         }
     },
     {
+        "id": "mulhouse",
+        "country": "FR",
+        "name": {
+            "en": "Mulhouse",
+            "zh-Hans": "米卢斯",
+            "zh-Hant": "米盧斯",
+            "fr": "Mulhouse"
+        }
+    },
+    {
         "id": "munich",
         "country": "DE",
         "name": {
@@ -878,6 +994,17 @@
             "en": "Munich",
             "zh-Hans": "慕尼黑",
             "zh-Hant": "慕尼黑"
+        }
+    },
+    {
+        "id": "nagoya",
+        "country": "JP",
+        "name": {
+            "en": "Nagoya",
+            "zh-Hans": "名古屋",
+            "zh-Hant": "名古屋",
+            "ja": "名古屋",
+            "ko": "나고야"
         }
     },
     {
@@ -949,6 +1076,15 @@
         }
     },
     {
+        "id": "newcastle",
+        "country": "AU",
+        "name": {
+            "en": "Newcastle",
+            "zh-Hans": "纽卡斯尔",
+            "zh-Hant": "紐卡斯爾"
+        }
+    },
+    {
         "id": "neworleans",
         "country": "US",
         "name": {
@@ -1002,6 +1138,16 @@
             "zh-Hans": "新西伯利亚",
             "zh-Hant": "新西伯利亞",
             "ru": "Новосибирский"
+        }
+    },
+    {
+        "id": "nuremberg",
+        "country": "DE",
+        "name": {
+            "en": "Nuremberg",
+            "zh-Hans": "纽伦堡",
+            "zh-Hant": "紐倫堡",
+            "de": "Nürnberg"
         }
     },
     {
@@ -1068,6 +1214,16 @@
             "en": "Perth",
             "zh-Hans": "珀斯",
             "zh-Hant": "珀斯"
+        }
+    },
+    {
+        "id": "poznan",
+        "country": "PL",
+        "name": {
+            "en": "Poznan",
+            "zh-Hans": "波兹南",
+            "zh-Hant": "波茲南",
+            "pl": "Poznań"
         }
     },
     {
@@ -1209,6 +1365,17 @@
         }
     },
     {
+        "id": "sendai",
+        "country": "JP",
+        "name": {
+            "en": "Sendai",
+            "zh-Hans": "仙台",
+            "zh-Hant": "仙台",
+            "ja": "仙台",
+            "ko": "센다이"
+        }
+    },
+    {
         "id": "seoul",
         "country": "KR",
         "name": {
@@ -1305,6 +1472,16 @@
             "en": "Stockholm",
             "zh-Hans": "斯德哥尔摩",
             "zh-Hant": "斯德哥爾摩"
+        }
+    },
+    {
+        "id": "strasbourg",
+        "country": "FR",
+        "name": {
+            "en": "Strasbourg",
+            "zh-Hans": "斯特拉斯堡",
+            "zh-Hant": "斯特拉斯堡",
+            "fr": "Strasbourg"
         }
     },
     {
@@ -1409,6 +1586,16 @@
         }
     },
     {
+        "id": "toulouse",
+        "country": "FR",
+        "name": {
+            "en": "Toulouse",
+            "zh-Hans": "图卢兹",
+            "fr": "Toulouse",
+            "zh-Hant": "圖盧茲"
+        }
+    },
+    {
         "id": "turin",
         "country": "IT",
         "name": {
@@ -1485,6 +1672,15 @@
         }
     },
     {
+        "id": "wuhu",
+        "country": "CN",
+        "name": {
+            "en": "Wuhu",
+            "zh-Hans": "芜湖",
+            "zh-Hant": "蕪湖"
+        }
+    },
+    {
         "id": "wuxi",
         "country": "CN",
         "name": {
@@ -1556,6 +1752,15 @@
             "en": "Zhengzhou",
             "zh-Hans": "郑州",
             "zh-Hant": "鄭州"
+        }
+    },
+    {
+        "id": "zhenjiang",
+        "country": "CN",
+        "name": {
+            "en": "Zhenjiang",
+            "zh-Hans": "镇江",
+            "zh-Hant": "鎮江"
         }
     }
 ]
