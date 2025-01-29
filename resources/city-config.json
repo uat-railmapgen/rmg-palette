@@ -49,6 +49,15 @@
         }
     },
     {
+        "id": "auckland",
+        "country": "NZ",
+        "name": {
+            "en": "Auckland",
+            "zh-Hans": "奥克兰",
+            "zh-Hant": "奧克蘭"
+        }
+    },
+    {
         "id": "baku",
         "country": "AZ",
         "name": {
@@ -337,6 +346,16 @@
         }
     },
     {
+        "id": "cork",
+        "country": "IE",
+        "name": {
+            "en": "Cork",
+            "zh-Hans": "科克",
+            "zh-Hant": "科克",
+            "ga": "Corcaigh"
+        }
+    },
+    {
         "id": "daegu",
         "country": "KR",
         "name": {
@@ -373,6 +392,16 @@
             "hi": "दिल्ली",
             "zh-Hans": "德里",
             "zh-Hant": "德里"
+        }
+    },
+    {
+        "id": "doha",
+        "country": "QA",
+        "name": {
+            "en": "Doha",
+            "zh-Hans": "多哈",
+            "zh-Hant": "多哈",
+            "ar": "الدوحة"
         }
     },
     {
@@ -464,6 +493,16 @@
         }
     },
     {
+        "id": "geneva",
+        "country": "CH",
+        "name": {
+            "en": "Geneva",
+            "zh-Hans": "日内瓦",
+            "zh-Hant": "日內瓦",
+            "fr": "Genève"
+        }
+    },
+    {
         "id": "genoa",
         "country": "IT",
         "name": {
@@ -471,6 +510,16 @@
             "it": "Genova",
             "zh-Hans": "热那亚",
             "zh-Hant": "熱那亞"
+        }
+    },
+    {
+        "id": "ghent",
+        "country": "BE",
+        "name": {
+            "en": "Ghent",
+            "zh-Hans": "根特",
+            "zh-Hant": "根特",
+            "fr": "Gand"
         }
     },
     {
@@ -590,6 +639,13 @@
         }
     },
     {
+        "id": "helsinki",
+        "country": "FI",
+        "name": {
+            "en": "Helsinki"
+        }
+    },
+    {
         "id": "hiroshima",
         "country": "JP",
         "name": {
@@ -696,6 +752,16 @@
         }
     },
     {
+        "id": "jrtokai",
+        "country": "JP",
+        "name": {
+            "en": "Central Area (Tokai)",
+            "zh-Hans": "中部地方（东海）",
+            "ja": "中部地方（東海）",
+            "zh-Hant": "中部地方（東海）"
+        }
+    },
+    {
         "id": "kansai",
         "country": "JP",
         "name": {
@@ -731,6 +797,17 @@
             "ms": "Kuala Lumpur Raya/Lembah Klang",
             "zh-Hans": "大吉隆坡/巴生谷",
             "zh-Hant": "大吉隆坡/巴生谷"
+        }
+    },
+    {
+        "id": "kobe",
+        "country": "JP",
+        "name": {
+            "en": "Kobe",
+            "zh-Hans": "神户",
+            "zh-Hant": "神户",
+            "ja": "神户",
+            "ko": "고베"
         }
     },
     {
@@ -870,6 +947,15 @@
         }
     },
     {
+        "id": "lv",
+        "country": "US",
+        "name": {
+            "en": "Las Vegas",
+            "zh-Hans": "拉斯维加斯",
+            "zh-Hant": "拉斯維加斯"
+        }
+    },
+    {
         "id": "lyon",
         "country": "FR",
         "name": {
@@ -977,6 +1063,15 @@
         }
     },
     {
+        "id": "msp",
+        "country": "US",
+        "name": {
+            "en": "Minneapolis-Saint Paul",
+            "zh-Hans": "明尼阿波利斯-圣保罗都会区",
+            "zh-Hant": "明尼阿波利斯-聖保羅都會區"
+        }
+    },
+    {
         "id": "mulhouse",
         "country": "FR",
         "name": {
@@ -984,6 +1079,15 @@
             "zh-Hans": "米卢斯",
             "zh-Hant": "米盧斯",
             "fr": "Mulhouse"
+        }
+    },
+    {
+        "id": "mumbai",
+        "country": "IN",
+        "name": {
+            "en": "Mumbai",
+            "zh-Hans": "孟买",
+            "zh-Hant": "孟買"
         }
     },
     {
@@ -1131,6 +1235,15 @@
         }
     },
     {
+        "id": "nottingham",
+        "country": "GBENG",
+        "name": {
+            "en": "Nottingham",
+            "zh-Hans": "诺丁汉",
+            "zh-Hant": "諾丁漢"
+        }
+    },
+    {
         "id": "novosibirsk",
         "country": "RU",
         "name": {
@@ -1148,6 +1261,16 @@
             "zh-Hans": "纽伦堡",
             "zh-Hant": "紐倫堡",
             "de": "Nürnberg"
+        }
+    },
+    {
+        "id": "okayama",
+        "country": "JP",
+        "name": {
+            "en": "Okayama",
+            "zh-Hans": "冈山",
+            "zh-Hant": "岡山",
+            "ja": "岡山"
         }
     },
     {
@@ -1208,12 +1331,31 @@
         }
     },
     {
+        "id": "pdx",
+        "country": "US",
+        "name": {
+            "en": "Portland",
+            "zh-Hans": "波特兰",
+            "zh-Hant": "波特蘭",
+            "ko": "포틀랜드"
+        }
+    },
+    {
         "id": "perth",
         "country": "AU",
         "name": {
             "en": "Perth",
             "zh-Hans": "珀斯",
             "zh-Hant": "珀斯"
+        }
+    },
+    {
+        "id": "philidelphia",
+        "country": "US",
+        "name": {
+            "en": "SEPTA",
+            "zh-Hans": "SEPTA",
+            "zh-Hant": "SEPTA"
         }
     },
     {
@@ -1529,6 +1671,15 @@
         }
     },
     {
+        "id": "taizhou",
+        "country": "CN",
+        "name": {
+            "en": "Taizhou",
+            "zh-Hans": "台州",
+            "zh-Hant": "台州"
+        }
+    },
+    {
         "id": "taoyuan",
         "country": "TW",
         "name": {
@@ -1554,6 +1705,15 @@
             "fa": "تهران‎",
             "zh-Hans": "德黑兰",
             "zh-Hant": "德黑蘭"
+        }
+    },
+    {
+        "id": "telivivyafo",
+        "country": "IL",
+        "name": {
+            "en": "Tel Aviv-Yafo",
+            "zh-Hans": "特拉维夫-雅法",
+            "zh-Hant": "特拉維夫-雅法"
         }
     },
     {
@@ -1746,6 +1906,15 @@
         }
     },
     {
+        "id": "zagreb",
+        "country": "HR",
+        "name": {
+            "en": "Zagreb",
+            "zh-Hans": "萨格勒布",
+            "zh-Hant": "薩格勒布"
+        }
+    },
+    {
         "id": "zhengzhou",
         "country": "CN",
         "name": {
@@ -1761,6 +1930,25 @@
             "en": "Zhenjiang",
             "zh-Hans": "镇江",
             "zh-Hant": "鎮江"
+        }
+    },
+    {
+        "id": "zhongshan",
+        "country": "CN",
+        "name": {
+            "en": "Zhongshan",
+            "zh-Hans": "中山",
+            "zh-Hant": "中山"
+        }
+    },
+    {
+        "id": "zurich",
+        "country": "CH",
+        "name": {
+            "en": "Zurich",
+            "zh-Hans": "苏黎世",
+            "zh-Hant": "蘇黎世",
+            "de": "Zürich"
         }
     }
 ]

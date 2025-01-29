@@ -218,5 +218,15 @@
             "zh-Hans": "江跳线",
             "zh-Hant": "江跳線"
         }
+    },
+    {
+        "id": "bitong",
+        "colour": "#0057b8",
+        "fg": "#fff",
+        "name": {
+            "en": "Bitong Line",
+            "zh-Hans": "璧铜线",
+            "zh-Hant": "璧銅線"
+        }
     }
 ]

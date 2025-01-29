@@ -21,7 +21,7 @@
     },
     {
         "id": "bj3",
-        "colour": "#d90627",
+        "colour": "#ce093d",
         "fg": "#fff",
         "name": {
             "en": "Line 3",
@@ -101,7 +101,7 @@
     },
     {
         "id": "bj11",
-        "colour": "#ED796B",
+        "colour": "#ed796b",
         "fg": "#fff",
         "name": {
             "en": "Line 11",
@@ -111,7 +111,7 @@
     },
     {
         "id": "bj12",
-        "colour": "#9c4f01",
+        "colour": "#bd6f16",
         "fg": "#fff",
         "name": {
             "en": "Line 12",
@@ -161,7 +161,7 @@
     },
     {
         "id": "bj17",
-        "colour": "#00A9A9",
+        "colour": "#00a9a9",
         "fg": "#fff",
         "name": {
             "en": "Line 17",
@@ -171,7 +171,7 @@
     },
     {
         "id": "bj19",
-        "colour": "#D6ABC1",
+        "colour": "#d6abc1",
         "fg": "#000",
         "name": {
             "en": "Line 19",
@@ -190,13 +190,13 @@
         }
     },
     {
-        "id": "bj28",
-        "colour": "#476205",
+        "id": "bj24yz",
+        "colour": "#e40077",
         "fg": "#fff",
         "name": {
-            "en": "Line 28",
-            "zh-Hans": "28号线",
-            "zh-Hant": "28號線"
+            "en": "Yizhuang Line",
+            "zh-Hans": "亦庄线",
+            "zh-Hant": "亦莊線"
         }
     },
     {
@@ -210,26 +210,6 @@
         }
     },
     {
-        "id": "bj27cp",
-        "colour": "#de82b2",
-        "fg": "#000",
-        "name": {
-            "en": "Changping Line",
-            "zh-Hans": "昌平线",
-            "zh-Hant": "昌平線"
-        }
-    },
-    {
-        "id": "bj24yz",
-        "colour": "#e40077",
-        "fg": "#fff",
-        "name": {
-            "en": "Yizhuang Line",
-            "zh-Hans": "亦庄线",
-            "zh-Hant": "亦莊線"
-        }
-    },
-    {
         "id": "bj26s1",
         "colour": "#b35a20",
         "fg": "#fff",
@@ -240,23 +220,23 @@
         }
     },
     {
-        "id": "bj34sj",
-        "colour": "#a29bbb",
+        "id": "bj27cp",
+        "colour": "#de82b2",
         "fg": "#000",
         "name": {
-            "en": "Capital Airport Express",
-            "zh-Hans": "首都机场线",
-            "zh-Hant": "首都機場線"
+            "en": "Changping Line",
+            "zh-Hans": "昌平线",
+            "zh-Hant": "昌平線"
         }
     },
     {
-        "id": "bj35dj",
-        "colour": "#004a9f",
+        "id": "bj28",
+        "colour": "#476205",
         "fg": "#fff",
         "name": {
-            "en": "Daxing Airport Express",
-            "zh-Hans": "大兴机场线",
-            "zh-Hant": "大興機場線"
+            "en": "Line 28",
+            "zh-Hans": "28号线",
+            "zh-Hant": "28號線"
         }
     },
     {
@@ -277,6 +257,26 @@
             "en": "Yizhuang T1 Line",
             "zh-Hans": "亦庄T1线",
             "zh-Hant": "亦莊T1線"
+        }
+    },
+    {
+        "id": "bj34sj",
+        "colour": "#a29bbb",
+        "fg": "#000",
+        "name": {
+            "en": "Capital Airport Express",
+            "zh-Hans": "首都机场线",
+            "zh-Hant": "首都機場線"
+        }
+    },
+    {
+        "id": "bj35dj",
+        "colour": "#004a9f",
+        "fg": "#fff",
+        "name": {
+            "en": "Daxing Airport Express",
+            "zh-Hans": "大兴机场线",
+            "zh-Hant": "大興機場線"
         }
     }
 ]

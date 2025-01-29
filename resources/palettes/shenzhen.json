@@ -64,7 +64,7 @@
         "colour": "#168773",
         "fg": "#fff",
         "name": {
-            "en": "Line 6 branch",
+            "en": "Branch Line 6",
             "zh-Hans": "6号线支线",
             "zh-Hant": "6號線支線"
         }
@@ -204,7 +204,7 @@
         "colour": "#1974d2",
         "fg": "#fff",
         "name": {
-            "en": "Pingshan sky shuttlo",
+            "en": "Pingshan SkyShuttle",
             "zh-Hans": "坪山云巴",
             "zh-Hant": "坪山雲巴"
         }

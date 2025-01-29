@@ -11,7 +11,7 @@
     },
     {
         "id": "nj2",
-        "colour": "#c8003f",
+        "colour": "#a6093d",
         "fg": "#fff",
         "name": {
             "en": "Line 2",
@@ -41,8 +41,8 @@
     },
     {
         "id": "nj5",
-        "colour": "#FDDA24",
-        "fg": "#fff",
+        "colour": "#f2da51",
+        "fg": "#000",
         "name": {
             "en": "Line 5",
             "zh-Hans": "5号线",
@@ -51,7 +51,7 @@
     },
     {
         "id": "nj6",
-        "colour": "#00b2a9",
+        "colour": "#4bbbb4",
         "fg": "#fff",
         "name": {
             "en": "Line 6",
@@ -101,7 +101,7 @@
     },
     {
         "id": "s1",
-        "colour": "#00b2a9",
+        "colour": "#4bbbb4",
         "fg": "#fff",
         "name": {
             "en": "Line S1/Airport Line",
@@ -110,8 +110,19 @@
         }
     },
     {
+        "id": "s2",
+        "colour": "#93282C",
+        "fg": "#fff",
+        "pantone": "7622 C",
+        "name": {
+            "en": "Line S2/Ningma Line",
+            "zh-Hans": "S2号线/宁马线",
+            "zh-Hant": "S2號線/寧馬線"
+        }
+    },
+    {
         "id": "s3",
-        "colour": "#b06096",
+        "colour": "#ba84ac",
         "fg": "#fff",
         "name": {
             "en": "Line S3/Ninghe Line",
@@ -130,6 +141,17 @@
         }
     },
     {
+        "id": "s5",
+        "colour": "#F5DF4D",
+        "fg": "#000",
+        "pantone": "13-0647 TCX",
+        "name": {
+            "en": "Line S5/Ningyang Line",
+            "zh-Hans": "S5号线/宁扬线",
+            "zh-Hant": "S5號線/寧揚線"
+        }
+    },
+    {
         "id": "s6",
         "colour": "#C98BDB",
         "fg": "#fff",
@@ -141,7 +163,7 @@
     },
     {
         "id": "s7",
-        "colour": "#e89cae",
+        "colour": "#b46b7a",
         "fg": "#fff",
         "name": {
             "en": "Line S7/Ningli Line",
@@ -151,7 +173,7 @@
     },
     {
         "id": "s8",
-        "colour": "#ea7600",
+        "colour": "#ff8000",
         "fg": "#fff",
         "name": {
             "en": "Line S8/Ningtian Line",
@@ -161,7 +183,7 @@
     },
     {
         "id": "s9",
-        "colour": "#f1b434",
+        "colour": "#ffc600",
         "fg": "#fff",
         "name": {
             "en": "Line S9/Ninggao Line",
